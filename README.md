@@ -24,10 +24,3 @@
 
 
 
-<h3 align="left">My GitHub Stats</h3>
-<img align="left" height="380em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevanaqurbanli&langs_count=8&theme=dark" alt=sevanaqurbanli />
-
-<p>&nbsp;<img align="center" height="380em" width="500em" src="https://github-readme-stats.vercel.app/api?username=sevanaqurbanli&show_icons=true&locale=en&theme=dark" alt="sevanaqurbanli" /></p>
-
-
-<a href="https://github.com/sevanaqurbanli">
